@@ -18,3 +18,5 @@ None. Nada... or in other words, nil.
 - We use no third party platforms or APIs therefore, no information is collected.
 
 <br>
+
+If you have questions, feel free to reach out to us via [email](halluxdev@gmail.com) or [twitter](https://twitter.com/halluxdev).
