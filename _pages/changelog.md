@@ -5,6 +5,16 @@ include_in_header: true
 ---
 
 # Changelog
+# **Version 1.0.1**
+Welcome to the dark side... Users were reporting issues with dark mode so, we went to the dark side of things and addressed some issues. The pesky keyboard didn't want to go away when users were done filling in their inputs so, we had a chat with the keyboard's boss, mouse. That should be fixed so when you're done filling in forms, just click anywhere outside of the keyboard.
+
+## What's New
+- Fixes!
+
+## Bug Fixes
+- Keyboard dismiss.
+- Dark mode adjustmets with 
+
 
 <br>
 
